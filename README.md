@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Willyan Gabriel! :dash:</h1>
+<h1 align="center">Olá, eu sou Willyan Gabriel! :dash:</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Designer+%F0%9F%8E%A8+%7C+Desenvolvedor+Front-end+%F0%9F%9A%80;" alt="Typing SVG" />
